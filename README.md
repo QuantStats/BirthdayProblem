@@ -1,3 +1,3 @@
 # BirthdayProblem
 
-Please read birthdayproblem.pdf.
+Please read `birthdayproblem.pdf`.
